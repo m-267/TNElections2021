@@ -20,11 +20,11 @@ My friends and I collected info for the two largest fronts.
 
 # Contributors
 
-Mohanabrabu
-Guruprasath
-Kawin Kumaran
-Ram Kumar and 
-Myself Ganesh Babu (@ganeshbabudotme)
+1. Mohanabrabu
+2. Guruprasath
+3. Kawin Kumaran
+4. Ram Kumar and
+5. Myself, Ganesh Babu (@ganeshbabudotme)
 
 # Maps
 

@@ -1,0 +1,235 @@
+Constituency_No,District,Constituency_Name,DMK Coalition Candidate name,Party,Gender,Total Assets,Liabilities,Criminal Cases,Education,Age
+1,Thiruvallur,GUMMIDIPUNDI,D.J. Govindarajan,DMK,M,74880993,21801172,0,10th Std,60
+2,Thiruvallur,PONNERI,Durai Chandrasekar,INC,M,4382323,0,1,Graduate Professional,48
+3,Thiruvallur,TIRUTTANI,S. Chandran,DMK,M,44932385,360000,0,Graduate Professional,57
+4,Thiruvallur,THIRUVALLUR,V.G. Rajendran,DMK,M,2180615425,360091288,3,Diploma,53
+5,Thiruvallur,POONAMALLEE,A. Krishnasami,DMK,M,131317837,6900000,4,Graduate Professional,55
+6,Thiruvallur,AVADI,S.M. Nassar,DMK,M,113357880,0,29,10th Std,61
+7,Thiruvallur,MADURAVOYAL,Karambakkam K. Ganapthy,DMK,M,8530700,0,0,8th Pass,61
+8,Thiruvallur,AMBATTUR,Joseph Samuel,DMK,M,13801888,296300,1,Graduate,58
+9,Thiruvallur,MADAVARAM,S. Sudarsanam,DMK,M,372661072,66866420,22,Graduate Professional,62
+10,Thiruvallur,THIRUVOTTIYUR,K.P. Shankar,DMK,M,45420548,8236659,2,9th Std,47
+11,Chennai,DR. RADHAKRISHNAN NAGAR,J.J. Ebenezar,DMK,M,1580302,0,0,Post Graduate,45
+12,Chennai,PERAMBUR,R.D. Shekhar,DMK,M,12896842,3996800,10,Graduate Professional,54
+13,Chennai,KOLATHUR,M.K. Stalin,DMK,M,88875339,0,47,Graduate,68
+14,Chennai,VILLIVAKKAM,A. Vetri Alagan,DMK,M,232762681,50034617,0,Post Graduate,42
+15,Chennai,THIRU-VI-KA-NAGAR,Thayakam Kavi,DMK,M,20516556,4312266,15,Graduate Professional,55
+16,Chennai,EGMORE,I. Paranthaman,DMK,M,11246806,0,0,Graduate Professional,44
+17,Chennai,ROYAPURAM,Idream Moorthy,DMK,M,1121958218,268329491,0,10th Std,54
+18,Chennai,HARBOUR,P. K. Shekar Babu,DMK,M,21054762,2060000,25,10th Std,58
+19,Chennai,CHEPAUK-THIRUVALLIKENI,Udayanithi Stalin,DMK,M,290777932,135000,22,Graduate,43
+20,Chennai,THOUSAND LIGHTS,Dr. Ezhilan,DMK,M,11851770,354836,0,Doctor,41
+21,Chennai,ANNA NAGAR,M.K. Mohan,DMK,M,2112099843,30313074,8,9th Std,68
+22,Chennai,VIRUGAMPAKKAM,A.M.V. Prabhakar Raja,DMK,M,22276365,2462100,6,Post Graduate,32
+23,Chennai,SAIDAPET,M. Subramanian,DMK,M,11102314,1319712,34,Post Graduate,61
+24,Chennai,THEAYAGARAYA NAGAR,J. Karunanidhi,DMK,M,34408856,16500000,3,9th Std,51
+25,Chennai,MYLAPORE,T. Velu,DMK,M,65840088,18249620,11,Graduate Professional,50
+26,Chennai,VELACHERY,J.M.H. Hassan,INC,M,117841833,0,5,Post Graduate,36
+27,Kanchipuram,SHOZHINGANALLUR,S. Aravind Ramesh,DMK,M,285905346,36778278,22,10th Fail,54
+28,Kanchipuram,ALANDUR,T.M. Anbarasan,DMK,M,82272457,0,7,11th Std,61
+29,Kanchipuram,SRIPERUMBUDUR,K. Selvaperunthagai,INC,M,275457744,16365725,3,Graduate Professional,60
+30,Chengalpattu,PALLAVARAM,I. Karunanidhi,DMK,M,10008315,2019280,21,12th Std,62
+31,Chengalpattu,TAMBARAM,S.R. Raja,DMK,M,274169999,80477971,3,9th Std,64
+32,Chengalpattu,CHENGALPATTU,M. Varalakshmi,DMK,F,414445408,237892792,0,Graduate Professional,47
+33,Chengalpattu,THIRUPORUR,S.S. Balaji,VCK,M,31099633,13359000,2,Graduate Professional,51
+34,Chengalpattu,CHEYYUR,Panayur Babu,VCK,M,133657070,77909953,0,Graduate,44
+35,Chengalpattu,MADURANTHAKAM,Mallai Sathya,MDMK,M,2993234,1400000,7,Graduate,57
+36,Kanchipuram,UTHIRAMERUR,K. Sundar,DMK,M,31557810,0,6,Graduate,66
+37,Kanchipuram,KANCHEEPURAM,C.V.M.P. Ezhilarasan,DMK,M,71455672,2445200,5,Graduate Professional,49
+38,Ranipet,ARAKONAM,Gautam Sanna,VCK,M,10693782,1500000,0,Post Graduate,48
+39,Ranipet,SHOLINGHUR,A.M. Munirathinam,INC,M,703268591,509581789,2,10th Std,65
+40,Vellore,KATPADI,Durai Murugan,DMK,M,308092291,0,8,Post Graduate,83
+41,Ranipet,RANIPET,R. Gandhi,DMK,M,479495450,148053532,3,10th Std,75
+42,Ranipet,ARCOT,J.L. Eswarappan,DMK,M,131771131,71198073,0,Graduate,42
+43,Vellore,VELLORE,P. Karthikeyan,DMK,M,176182388,43820797,4,5th Std,59
+44,Vellore,ANAIKATTU,A.P. Nandakumar,DMK,M,260878527,79811312,10,12th Std,52
+45,Vellore,KILVAITHINANKUPPAM,K. Seetharaman,DMK,M,1104000,0,0,10th Std,63
+46,Vellore,GUDIYATHAM,V. Amalu,DMK,F,3375763,0,0,10th Fail,39
+47,Tirupattur,VANIAYAMBADI,M. Mohammad Naeem,IUML,M,8702808,932810,0,Graduate,65
+48,Tirupattur,AMBUR,A.C. Vilvanathan,DMK,M,38635845,1030623,0,10th Std,61
+49,Tirupattur,JOLARPET,K. Devaraji,DMK,M,29704329,3747482,3,8th Std,64
+50,Tirupattur,TIRUPPATTUR,A. Nallathambi,DMK,M,19536484,4292231,5,10th Std,45
+51,Krishnagiri,UTHANGARAI,J.S. Arumugam,INC,M,18628702,6323000,3,12th Std,48
+52,Krishnagiri,BARGUR,T. Mathialagan,DMK,M,614765903,175893071,0,Graduate,54
+53,Krishnagiri,KRISHNAGIRI,T. Senguttavan,DMK,M,34641952,14740721,8,10th Std,68
+54,Krishnagiri,VEPPANAHALLI,P. Murugan,DMK,M,59462160,6440316,0,12th Std,51
+55,Krishnagiri,HOSUR,Y. Prakash,DMK,M,78553505,78673619,0,10th Std,56
+56,Krishnagiri,THALLI,T. Ramachandran,CPI,M,51896937,0,0,Graduate,53
+57,Dharmapuri,PALACODE,P.K. Murugan,DMK,M,9567490,3248151,3,Graduate Professional,53
+58,Dharmapuri,PENNAGARAM,P.N.P. Inbashekaran,DMK,M,71900710,12125326,19,Post Graduate,37
+59,Dharmapuri,DHARMAPURI,Thadangam P. Subramani,DMK,M,10145918,1000000,1,11th Std,63
+60,Dharmapuri,PAPPIREDDIPPATTI,M. Prabhu Rajashekar,DMK,M,23775143,7126248,2,Doctor,37
+61,Dharmapuri,HARUR,A. Kumar,CPM,M,1153000,0,1,11th Std,46
+62,Tiruvannamalai,CHENGAM,M.P. Giri,DMK,M,18105914,2916928,0,12th Fail,46
+63,Tiruvannamalai,TIRUVANNAMALAI,E.V. Velu,DMK,M,1277000,0,0,10th Std,44
+64,Tiruvannamalai,KILPENNATHUR,K. Picchandi,DMK,M,34967504,2455379,0,Post Graduate,67
+65,Tiruvannamalai,KALASAPAKKAM,P.S.T. Saravanan,DMK,M,31343590,4779749,1,Post Graduate,52
+66,Tiruvannamalai,POLUR,K.V. Sekaran,DMK,M,21228406,3320000,1,10th Std,63
+67,Tiruvannamalai,ARANI,S.S. Anbalagan,DMK,M,521430,0,2,12th Std,49
+68,Tiruvannamalai,CHEYYAR,O. Jyothi,DMK,M,6378575,935000,3,Graduate,50
+69,Tiruvannamalai,VANDAVASI,S. Ambedkumar,DMK,M,22580852,0,2,10th Std,44
+70,Villupuram,GINGEE,K.S. Masthan,DMK,M,29300042,660000,29,8th Std,65
+71,Villupuram,MAILAM,R. Masilamani,DMK,M,20271083,3257694,8,Doctor,70
+72,Villupuram,TINDIVANAM,Seethapathi Chockalingam,DMK,F,18246223,786904,5,Post Graduate,70
+73,Villupuram,VANUR,Vanni Arasu,VCK,M,4742265,0,5,12th Std,50
+74,Villupuram,VILLUPURAM,R. Lakshmanan,DMK,M,197704524,22962569,2,Doctor,49
+75,Villupuram,VIKRAVANDI,N. Pugazhendi,DMK,M,5210805,2702664,4,10th Fail,66
+76,Kallakurichi,TIRUKKOYILUR,K. Ponmudi,DMK,M,174207991,48225175,13,Doctorate,70
+77,Kallakurichi,ULUNDURPET,A.J. Manikannan,DMK,M,53957979,7456405,4,10th Std,56
+78,Kallakurichi,RISHIVANDIAM,Vasantham Karthikeyan,DMK,M,151390457,47026785,23,Graduate,43
+79,Kallakurichi,SANKARAPURAM,T. Udayasooriyan,DMK,M,88192627,16115896,32,Graduate,57
+80,Kallakurichi,KALLAKURICHI,K.I. Manirathinam,INC,M,63675013,0,4,Doctorate,62
+81,Salem,GANGAVALLI,Rekha Priyadarshini,DMK,F,5218739,1400000,2,Post Graduate,38
+82,Salem,ATTUR,K. Chinnadurai,DMK,M,14381931,3169630,1,Graduate,55
+83,Salem,YERCAUD,C. Tamil Selvan,DMK,M,3662440,0,0,5th Std,50
+84,Salem,OMALUR,R. Mohan Kumaramangalam,INC,M,487636609,32675000,1,Graduate,42
+85,Salem,METTUR,S. Srinivasa Perumal,DMK,M,113923027,74423163,5,12th Std,46
+86,Salem,EDAPADI,K. Sampath Kumar,DMK,M,5767228,0,0,Post Graduate,36
+87,Salem,SANKARI,K.M. Rajesh,DMK,M,60184043,16021701,0,Post Graduate,41
+88,Salem,SALEM (WEST),Selathampatti A. Rajendran,DMK,M,5886049,7679626,1,10th Std,54
+89,Salem,SALEM (NORTH),R. Rajendran,DMK,M,26063861,840000,16,Graduate,61
+90,Salem,SALEM (SOUTH),A.S. Saravanan,DMK,M,28083858,9003267,2,7th Std,48
+91,Salem,VEERAPANDI,Dr. Tharun,DMK,M,98673714,8453610,1,Doctor,39
+92,Namakkal,RASIPURAM,M. Mathiventhan,DMK,M,52243724,22120788,0,Doctor,36
+93,Namakkal,SENDAMANGALAM,K. Ponnusami,DMK,M,7665424,46983,0,9th Std,69
+94,Namakkal,NAMAKKAL,P. Ramalingam,DMK,M,275560913,134388144,0,Post Graduate,55
+95,Namakkal,PARAMATHI-VELUR,K.S. Moorthy,DMK,M,55328049,7750203,1,Graduate,59
+96,Namakkal,TIRUCHENGODE,Eeswaran,KMDK,M,409477265,170834980,5,Graduate,60
+97,Namakkal,KUMARAPALAYAM,M. Venkatachalam,DMK,M,72993707,0,0,Post Graduate,52
+98,Erode,ERODE (EAST),Thirumagan Evera,INC,M,24039279,1538000,0,Graduate,45
+99,Erode,ERODE (WEST),C. Mutthusami,DMK,M,136862342,0,9,Post Graduate,71
+100,Erode,MODAKURICHI,Subbalakshmi Jagadeesan,DMK,F,76436019,0,7,Graduate,73
+101,Tiruppur,DHARAPURAM,Kayalvizhi Selvaraj,DMK,F,41707053,0,0,Post Graduate,52
+102,Tiruppur,KANGAYAM,M.P. Saminathan,DMK,M,176399652,34744513,3,Graduate,57
+103,Erode,PERUNDURAI,K.K.C. Balu,KMDK,M,67317845,8428155,3,Graduate,59
+104,Erode,BHAVANI,K.P. Durairaj,DMK,M,96853302,9895660,2,12th Std,53
+105,Erode,ANTHIYUR,A.G. Venkatachalam,DMK,M,42951409,7433657,5,10th Std,61
+106,Erode,GOBICHETTIPALAYAM,G.V. Manimaran,DMK,M,11889937,4834988,0,10th Fail,54
+107,Erode,BHAVANISAGAR,P.L. Sundaram,CPI,M,3558153,0,0,9th Std,52
+108,Nilgiris,UDHAGAMANDALAM,R. Ganesh,INC,M,21567308,1525168,1,Post Graduate,59
+109,Nilgiris,GUDALUR,S. Kasi Lingam,DMK,M,20303354,2671361,15,10th Std,58
+110,Nilgiris,COONOOR,K. Ramachandran,DMK,M,105441336,15015677,3,12th Std,69
+111,Coimbatore,METTUPALAYAM,T.R. Shanmugasundaram,DMK,M,65479134,15798741,2,6th Std,59
+112,Tiruppur,AVANASHI,Athiyaman,ATP,M,49748741,0,2,10th Std,68
+113,Tiruppur,TIRUPPUR (NORTH),Ravi @ M. Subramanian,CPI,M,33190498,0,0,12th Std,64
+114,Tiruppur,TIRUPPUR (SOUTH),K. Selvaraj,DMK,M,25357510,5120297,4,5th Std,64
+115,Tiruppur,PALLADAM,K. Muthu Rathinam,MDMK,M,22781576,781000,0,10th Std,50
+116,Coimbatore,SULUR,Premier Selvam,KMDK,M,197084300,10572000,0,8th Std,52
+117,Coimbatore,KAVUNDAMPALAYAM,Payya Gounder @ R. Krishnan,DMK,M,95884907,3281873,14,6th Std,63
+118,Coimbatore,COIMBATORE (NORTH),V.N. Shanmugasundaram,DMK,M,80945795,3181781,5,Graduate,60
+119,Coimbatore,THONDAMUTHUR,Karthikeya Sivasenapathy,DMK,M,54052530,7802829,0,12th Std,48
+120,Coimbatore,COIMBATORE (SOUTH),Mayura S. Jayakumar,INC,M,21766000,16270415,1,Post Graduate,47
+121,Coimbatore,SINGANALLUR,N. Karthik,DMK,M,41210530,3803473,37,9th Std,37
+122,Coimbatore,KINATHUKADAVU,Kurichi Prabakaran,DMK,M,123976625,33889286,2,12th Std,46
+123,Coimbatore,POLLACHI,Dr. K. Varadarajan,DMK,M,180311266,8719457,14,Doctor,67
+124,Coimbatore,VALPARAI,M. Arumugam,CPI,M,4155288,700000,0,10th Std,69
+125,Tiruppur,UDUMALPET,K. Thennarasu,INC,M,20152822,3190861,0,Graduate Professional,55
+126,Tiruppur,MADATHUKULAM,Jeyaram Krishnan,DMK,M,40216693,2663336,0,Graduate Professional,53
+127,Dindigul,PALANI,I.P. Senthilkumar,DMK,M,80615229,7607768,14,Graduate Professional,42
+128,Dindigul,ODDANCHATRAM,R. Chakkarapani,DMK,M,84695187,473028943,6,Graduate,59
+129,Dindigul,ATHOOR,I. Periyasami,DMK,M,76394882,14115522,0,Graduate,67
+130,Dindigul,NILAKOTTAI,Murugavel Rajan,MVK,M,7652390,961784,16,Graduate Professional,53
+131,Dindigul,NATHAM,M.A. Andi Ambalam,DMK,M,10463323,1828525,4,12th Std,64
+132,Dindigul,DINDIGUL,N. Pandi,CPM,M,7070114,11048647,2,12th Std,63
+133,Dindigul,VEDASANDUR,S. Gandhirajan,DMK,M,99325525,12798179,2,Graduate Professional,70
+134,Karur,Aravakurichi,Monjanur R. Elango,DMK,M,38329734,2931026,3,Graduate,50
+135,Karur,KARUR,V. Senthil Balaji,DMK,M,29270169,905000,30,12th Std,45
+136,Karur,KRISHNARAYAPURAM,K. Sivagamasundari,DMK,F,6436018,829050,0,Post Graduate,50
+137,Karur,KULITHALAI,R. Manikkam,DMK,M,13228629,7046092,6,12th Std,61
+138,Tiruchirappalli,MANAPPARAI,Abdul Samad,MNMK,M,1064400,0,1,10th Std,52
+139,Tiruchirappalli,SRIRANGAM,M. Pazhaniyandi,DMK,M,90742428,66132040,7,9th Std,54
+140,Tiruchirappalli,TIRUCHIRAPALLI (WEST),K.N. Nehru,DMK,M,34781122,2527300,10,12th Std,68
+141,Tiruchirappalli,TIRUCHIRAPALLI (EAST),Inigo Irudhayaraj,DMK,M,173711664,14815941,2,Doctorate,48
+142,Tiruchirappalli,THIRUVERAMBUR,Anbil Mahesh Poyyamozhi,DMK,M,90150300,533716,9,Post Graduate,43
+143,Tiruchirappalli,LALGUDI,A. Soundra Pandian,DMK,M,17290507,2935250,12,12th Std,56
+144,Tiruchirappalli,MANACHANALLUR,C. Kathiravan,DMK,M,1212156670,518295720,1,Graduate,46
+145,Tiruchirappalli,MUSIRI,N. Thiyagarajan,DMK,M,6785000,1079000,24,Post Graduate,60
+146,Tiruchirappalli,THURAIYUR,Stalin Kumar,DMK,M,5931252,2222474,13,Graduate,36
+147,Perambalur,PERAMBALUR,S.S. Sivashankar,DMK,M,2194664,0,0,Post Graduate,47
+148,Perambalur,KUNNAM,M. Prabhakaran,DMK,M,135594705,13530009,16,Graduate,51
+149,Ariyalur,ARIYALUR,Chinnappa,MDMK,M,14671830,2995179,4,Graduate Professional,73
+150,Ariyalur,JAYANKONDAM,K.S.K. Kannan,DMK,M,126349042,1989236,21,Post Graduate,43
+151,Cuddalore,TITTAKUDI,C.V. Ganesan,DMK,M,94932500,45281186,0,Post Graduate,62
+152,Cuddalore,VRIDDHACHALAM,M.R.R. Radhakrishnan,INC,M,15444809,61591,5,10th Std,53
+153,Cuddalore,NEYVELI,Sabha Rajendran,DMK,M,62090178,7265337,7,Graduate,59
+154,Cuddalore,PANRUTI,T. Velmurugan,TVK,M,2393638,0,17,Graduate,50
+155,Cuddalore,CUDDALORE,K. Ayyappan,DMK,M,23470563,7545921,0,Post Graduate,63
+156,Cuddalore,KURINJIPADI,M.R.K. Panneerselvam,DMK,M,81714667,7464058,12,Graduate Professional,63
+157,Cuddalore,BHUVANAGIRI,Durai Saravanan,DMK,M,102938068,10053236,7,Post Graduate,54
+158,Cuddalore,CHIDAMBARAM,A.S. Abdul Raguman Rabbani,IUML,M,8508919,0,0,9th Std,42
+159,Cuddalore,KATTUMANNARKOIL,Sinthanai Selvan,VCK,M,9562905,0,1,Diploma,55
+160,Mayiladuthurai,SIRKALI,M. Panneerselvam,DMK,M,20890000,4023572,11,Post Graduate,66
+161,Mayiladuthurai,MAYILADUTHURAI,S. Rajkumar,INC,M,97782454,2620888,2,Post Graduate,52
+162,Mayiladuthurai,POOMPUHAR,Nivetha M. Murugan,DMK,M,82596432,30132596,8,12th Std,55
+163,Nagapattinam,NAGAPATTINAM,Aloor Shanavas,VCK,M,2785391,0,1,12th Std,39
+164,Nagapattinam,KILVELUR,Nagai Mali,CPM,M,1938171,1221050,0,Graduate,65
+165,Nagapattinam,VEDARANYAM,S.K. Vedarathinam,DMK,M,13548087,0,3,10th Std,62
+166,Thiruvarur,THIRUTHURAIPUNDI,Marimuthu,CPI,M,330460,0,3,10th Std,50
+167,Thiruvarur,MANNARGUDI,T.R.B. Raja,DMK,M,4447004836,134876928,2,Post Graduate,44
+168,Thiruvarur,THIRUVARUR,Poondi K. Kalaivanan,DMK,M,30830905,949023,49,12th Std,56
+169,Thiruvarur,NANNILAM,S. Jothiraman,DMK,M,21198391,2762581,12,Graduate,57
+170,Thanjavur,THIRUVIDAMARUDUR,K.V. Chezhian,DMK,M,5928190,343444,4,Doctorate,54
+171,Thanjavur,KUMBAKONAM,K. Anbalagan,DMK,M,417302510,102995783,6,10th Std,72
+172,Thanjavur,PAPANASAM,M.H. Jawahirullah,MNMK,M,27569227,0,1,Post Graduate,61
+173,Thanjavur,THIRUVAIYARU,Durai Chandrasekaran,DMK,M,27092369,1266609,10,Graduate Professional,61
+174,Thanjavur,Thanjavur,T.K.G. Neelamegam,DMK,M,6120503,0,5,10th Fail,57
+175,Thanjavur,ORATHANAD,M. Ramachandran,DMK,M,56033224,0,2,Graduate Professional,76
+176,Thanjavur,PATTUKKOTTAI,K. Annadurai,DMK,M,18232530,1156283,6,Graduate Professional,63
+177,Thanjavur,PERAVURANI,N. Ashok Kumar,DMK,M,61020192,22326617,0,10th Std,63
+178,Pudukottai,GANDHARVAKOTTAI,M. Chinnadurai,CPM,M,473200,0,0,10th Fail,58
+179,Pudukottai,VIRALIMALAI,M. Palaniappan,DMK,M,95702900,13422808,12,Graduate,54
+180,Pudukottai,PUDUKKOTTAI,Dr. Muthuraja,DMK,M,91218510,44492826,0,Doctor,44
+181,Pudukottai,THIRUMAYAM,S. Raghupathi,DMK,M,153261761,0,26,Graduate Professional,70
+182,Pudukottai,ALANGUDI,S.V.V. Meyyanathan,DMK,M,13459578,1252001,6,Post Graduate,52
+183,Pudukottai,ARANTANGI,S.T. Ramachandran,INC,M,14251126,3411744,0,Graduate,40
+184,Sivaganga,KARAIKUDI,S. Mangudi,INC,M,53888151,30610231,9,Graduate,58
+185,Sivaganga,TIRUPPATTUR,K.R. Periyakaruppan,DMK,M,87031084,8291004,18,Graduate,62
+186,Sivaganga,SIVAGANGA,S. Gunasekaran,CPI,M,52370691,0,30,10th Std,65
+187,Sivaganga,MANAMADURAI,A. Tamilarasi,DMK,F,22370577,4682670,8,Graduate,44
+188,Madurai,MELUR,T. Ravichandran,INC,M,24905562,6900000,0,Graduate,66
+189,Madurai,MADURAI EAST,P. Moorthy,DMK,M,113569676,37936176,3,12th Std,62
+190,Madurai,SHOLAVANDAN,E. Venkatesan,DMK,M,16361245,8535500,0,Graduate,45
+191,Madurai,MADURAI NORTH,Ko. Thalapathi,DMK,M,135925170,0,12,10th Std,65
+192,Madurai,MADURAI SOUTH,Bhoominathan,MDMK,M,70007388,8523000,2,Not Given,61
+193,Madurai,MADURAI CENTRAL,Palanivel Thiagarajan,DMK,M,388953333,0,3,Doctorate,55
+194,Madurai,MADURAI WEST,C. Chinnammal,DMK,F,121486956,2233290,2,8th Std,66
+195,Madurai,THIRUPARANKUNDRAM,S.K. Ponnuthai,CPM,F,1479490,361960,0,12th Std,47
+196,Madurai,THIRUMANGALAM,M. Manimaran,DMK,M,13303990,1646000,1,7th Std,46
+197,Madurai,USILAMPATTI,P.V. Kathiravan,AIFB,M,16305782,0,7,Graduate Professional,67
+198,Theni,ANDIPATTI,A. Maharajan,DMK,M,155530084,9431977,4,8th Std,67
+199,Theni,PERIYAKULAM,K.S. Saravanakumar,DMK,M,23285964,11406024,4,Graduate,49
+200,Theni,BODINAYAKANUR,Thanga Tamil Selvan,DMK,M,35073556,9068722,39,Post Graduate,60
+201,Theni,CUMBUM,Kambam Ramakrishnan,DMK,M,73891559,100236,7,Post Graduate,72
+202,Virudhunagar,RAJAPALAYAM,S. Thangapandian,DMK,M,182465294,73988547,16,6th Std,52
+203,Virudhunagar,SRIVILLIPUTHUR,P.S.W. Madhava Rao,INC,M,41291193,2729199,0,Post Graduate,63
+204,Virudhunagar,SATTUR,Dr. A.R.R. Ragu Raman,MDMK,M,18516721,6620746,0,Doctor,49
+205,Virudhunagar,SIVAKASI,A.M.S.G. Ashokan,INC,M,494669749,317600439,3,Graduate,62
+206,Virudhunagar,VIRUDHUNAGAR,A.R.R. Srinivasan,DMK,M,9629516,232896,3,12th Std,64
+207,Virudhunagar,ARUPPUKOTTAI,K.K.S.S.R. Ramachandran,DMK,M,42708308,13602557,9,10th Fail,71
+208,Virudhunagar,TIRUCHULI,Thangam Thennarasu,DMK,M,118761869,38474678,7,Graduate,54
+209,Ramanathapuram,PARAMAKUDI,S. Murugesan,DMK,M,18040921,20527786,0,5th Std,54
+210,Ramanathapuram,TIRUVADANAI,R.M. Karumanickam,INC,M,1142500,0,0,7th Std,65
+211,Ramanathapuram,RAMANATHAPURAM,K. Katharbatcha Muthuramalingam,DMK,M,10260895,1425590,5,12th Std,49
+212,Ramanathapuram,MUDUKULATHUR,R.S. Raja Kannapan,DMK,M,8253994,0,0,Graduate Professional,72
+213,Thoothukudi,VILATHIKULAM,G.V. Markandeyan,DMK,M,62295991,12705831,5,Graduate Professional,44
+214,Thoothukudi,THOOTHUKKUDI,P. Geetha Jeevan,DMK,F,98276021,13936663,15,Post Graduate,50
+215,Thoothukudi,TIRUCHENDUR,Anitha R. Radhakrishnan,DMK,M,52870846,0,16,10th Std,68
+216,Thoothukudi,SRIVAIKUNTAM,Urvasi S. Amirtharaj,INC,M,692572391,39752000,0,Post Graduate,37
+217,Thoothukudi,OTTAPIDARAM,C. Shanmugayya,DMK,M,14258275,1395208,10,Graduate Professional,50
+218,Thoothukudi,KOVILPATTI,K. Srinivasan,CPM,M,5915502,0,2,10th Std,57
+219,Tenkasi,SANKARANKOVIL,E. Raja,DMK,M,63156370,3863652,3,Post Graduate,35
+220,Tenkasi,VASUDEVANALLUR,Dr. Sadhan Thirumalaikumar,MDMK,M,83285025,49036712,1,Doctor,68
+221,Tenkasi,KADAYANALLUR,K.A.M. Mohammed Abubakar,IUML,M,19963771,0,8,12th Std,49
+222,Tenkasi,TENKASI,S. Palani Nadar,INC,M,161249279,112529002,4,7th Std,68
+223,Tenkasi,ALANGULAM,Dr. Poongothai Aladi Aruna,DMK,F,147136306,1800000,9,Doctor,56
+224,Tirunelveli,TIRUNELVELI,A.L.S. Lakshmanan,DMK,M,24639117,219594,0,12th Std,55
+225,Tirunelveli,AMBASAMUDRAM,R. Avudaiyappan,DMK,M,27880000,0,8,Graduate Professional,76
+226,Tirunelveli,PALAYAMCOTTAI,M. Abdul Wahab,DMK,M,22718035,2027802,26,12th Std,54
+227,Tirunelveli,NANGUNERI,Ruby R. Manoharan,INC,M,1006300787,122896461,1,10th Std,61
+228,Tirunelveli,RADHAPURAM,M. Appavu,DMK,M,21925570,4761150,7,Graduate,69
+229,Kanniyakumari,KANNIYAKUMARI,S. Austin,DMK,M,10242398,1700150,10,Post Graduate,62
+230,Kanniyakumari,NAGERCOIL,N. Suresh Rajan,DMK,M,44232539,4736178,12,Graduate,58
+231,Kanniyakumari,COLACHEL,J.G. Prince,INC,M,6872054,0,73,Post Graduate,64
+232,Kanniyakumari,PADMANABHAPURAM,T. Mano Thangaraj,DMK,M,2339870,809103,29,Post Graduate,53
+233,Kanniyakumari,VILAVANCODE,S. Vijayadharani,INC,F,91153377,21900000,8,Graduate Professional,51
+234,Kanniyakumari,KILLIYOOR,S. Rajesh Kumar,INC,M,21017747,2485000,52,Graduate Professional,46
